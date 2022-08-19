@@ -70,7 +70,7 @@ axios
   .catch((error) => {
     console.error(error);
   });
- 
+
 app.create;
 
 // catch 404 and forward to error handler

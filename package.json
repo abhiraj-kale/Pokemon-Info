@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "start": "node ./bin/www",
-    "devDtart": "node app.js"
+    "devStart": "node app.js"
   },
   "dependencies": {
     "axios": "^0.27.2",
